@@ -3,7 +3,7 @@ Emily Trinh
 ## Project Abstract
 This open source project is an android mobile application tailored towards college students, hosted on Google’s Firebase platform. The application addresses the needs of college students and acts as a centralized platform where students can share notes, keep track of their attendance, collaborate with peers, and find the latest events around campus. This project aims to bring convenience and accessibility for college students, utilizing SQLite and Firebase to host it’s data in the back end and Material UI as the front end React framework. The open issues range from migrating an SQLite database to data encryption.
 
-![UML](/College_Connect_UML.png)
+![UML](/EmilyTrinh_CollegeConnect.png)
 
 ## Project Relevance
 This proposal aligns with the course goals because it includes database management, graphical user interface based front end design, as well as object oriented design. Because this is an open source project, it is test driven as every attempted solution needs to be tested before it can merge with the master branch, and the issues in this project include a wide range of topics which require on-the-fly coding, where we will have to think of the solution as we go. It is an entire full stack application that is already available on the play store, which means it offers a complete in-depth look at software development within the context of building and testing, version control, and project management. It is hosted as an open source project on github.
