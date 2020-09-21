@@ -1,19 +1,30 @@
-# IndividualProjectProposal
+# Pay Station
+Emily Trinh
+## Project Abstract
+This open source project is an android mobile application tailored towards college students, hosted on Google’s Firebase platform. The application addresses the needs of college students and acts as a centralized platform where students can share notes, keep track of their attendance, collaborate with peers, and find the latest events around campus. This project aims to bring convenience and accessibility for college students, utilizing SQLite and Firebase to host it’s data in the back end and Material UI as the front end React framework. The open issues range from migrating an SQLite database to data encryption.
 
-## Each project proposal contains:
+![Use Case Image](StellaOwl_PayStation.png)
 
-- A one paragraph description of the overall project.
-- A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is an important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx).
-- A one paragraph description of your proposed contribution.
-- A URL reference to the project. Add text describing on how to sucessfully build and run the project. 
+## Project Relevance
+_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)_
 
-Note: contributing to an open-source project is preferred. You may propose a stand-alone project, but if you do, it must be submitted as an open-source project. You also need to submit with the proposal a skeleton starter code (Hello World kind) in the appropriate programming language and using the appropriate libraries if needed for your project.
+## Conceptual Design
+_A one-paragraph description of your proposed contribution._
 
-Note: in picking an open-source project you should download the source and make sure that you can build the code before committing to use it in your project. Linking to the how to build page on the project site is not enough, you need to successfully build it and report on the step you took including version of operating system and programming language.
+## Background
+_A URL reference to the project. Add text on how to build and run succesfully._ 
 
-Note: this is an individual assignment all students have to come with a personal proposal.  Teams will be formed later to work on a selection of the more interesting proposals. 
+<https://github.com/temple-cis3296/MainPaystationLab>
 
-Note: if selected in a later stage, a team of four students will be formed to realize the proposal. You will be able to choose any teammate even if you have already worked with them on a previous assignment.
+***Building***
+- Do now work with NetBeans 8.0.2 (I have tried) use I have used NetBeans 11 on MacOS instead. 
+- Select pom.xml when opening project in NetBeans 11. 
+- First build is taking a long time as it is downloading many things but eventually succeed.
 
-## What to submit
-Create two new files named **YourName_ProjectTitle.md** and **YourName_ProjectTitle.png** for your proposal. Use [StellaOwl_PayStation.md](StellaOwl_Paystation.md) as a template. 
+**Running**
+- Do not contains a main so do not run the expected way. 
+- Select "Run Tests" from Run menu in NetBeans. 
+
+## Required Resources
+- _Group members competencies_
+- _Hardware and software resource required_
