@@ -32,7 +32,7 @@ As this is an open source project hosted on github, it details the open issues a
 ## Required Resources
 - _Group members competencies_
   - Java 
-  - SQLlite
+  - SQLite
   - React
 - _Hardware and software resource required_
   - Android Studio
